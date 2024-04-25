@@ -1,5 +1,5 @@
 - 👋 Hi, I am Abidemi Ogundipe
-- 👀 I am currently a secon year Analytics graduate Student at the American University and i am working on Machine Learning and Analytics projects
+- 👀 I am currently a second year Analytics graduate Student at the American University and i am working on Machine Learning and Analytics projects
 - 🌱 I’m currently learning the use of analytics tools to generate insights while solving business problems
 - 💞️ I’m looking to collaborate on Kaggle challanges
 - 💬 Ask me about Python, R, SQL, Tableau, Power BI, Machine Learning
